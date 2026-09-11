@@ -11,7 +11,7 @@ print("Ho ten: {} - Nam sinh: {} - DTB: {:.2f}".format(ho_ten, nam_sinh, diem_tb
 # toán tử %
 print("Ho ten: %s - Nam sinh: %d - DTB: %.2f" % (ho_ten, nam_sinh, diem_tb))
 
-# Chu thich mot dong: khai bao thong tin sinh vien
+# Chu thich mot dong: khai bao thong tin sinh vien.
 """
 Chu thich/docstring nhieu dong:
 Chuong trinh quan ly diem sinh vien - Buoi 2
